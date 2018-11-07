@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 367c63d5dc66d6e4fa83bbc1438f3534, type: 3}
+  m_Name: ChassisSmall
+  m_EditorClassIdentifier: 
+  buildPoints: 5
+  type: 0
+  GFX: {fileID: 1596245836942484, guid: 8de8fc7d548645b44ad81213c5439218, type: 2}
+  BuildGFX: {fileID: 0}
+  initialRotation: 90
+  rotateDegrees: 90
+  icon: {fileID: 21300000, guid: 2b64cb1da4a116a40b93de4d9040c468, type: 3}
+  customMeshChecker: {fileID: 0}
+  modifiers:
+  - stat: 1
+    math: 1
+    value: 20
+  - stat: 3
+    math: 1
+    value: 2

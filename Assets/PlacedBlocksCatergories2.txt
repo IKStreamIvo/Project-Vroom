@@ -1,0 +1,38 @@
+{
+  "Block": [
+    {
+      "name": "ChassisMedium",
+      "position": "(-1.0, 0.0, 0.0)",
+      "rotation": "(0.0, 0.7, 0.0, 0.7)"
+    }
+  ],
+  "Engine": [
+    {
+      "name": "EngineCar",
+      "position": "(0.0, 1.0, 0.0)",
+      "rotation": "(0.0, 0.7, 0.0, 0.7)"
+    }
+  ],
+  "Wheel": [
+    {
+      "name": "WheelBasic",
+      "position": "(-2.0, 0.0, 0.0)",
+      "rotation": "(0.0, 0.7, 0.0, 0.7)"
+    },
+    {
+      "name": "WheelBasic",
+      "position": "(-2.0, 0.0, -3.0)",
+      "rotation": "(0.0, 0.7, 0.0, 0.7)"
+    },
+    {
+      "name": "WheelBasic",
+      "position": "(3.0, 0.0, -3.0)",
+      "rotation": "(0.0, 0.7, 0.0, -0.7)"
+    },
+    {
+      "name": "WheelBasic",
+      "position": "(3.0, 0.0, 0.0)",
+      "rotation": "(0.0, 0.7, 0.0, -0.7)"
+    }
+  ]
+}

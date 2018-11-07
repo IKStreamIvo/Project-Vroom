@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 367c63d5dc66d6e4fa83bbc1438f3534, type: 3}
+  m_Name: EngineCar
+  m_EditorClassIdentifier: 
+  buildPoints: 25
+  type: 1
+  GFX: {fileID: 1255993272944668, guid: 014a6a50caabfc64e9ad216a31c14ee9, type: 2}
+  BuildGFX: {fileID: 0}
+  initialRotation: 90
+  rotateDegrees: 90
+  icon: {fileID: 21300000, guid: d51c07336d90aca49a8735384ae3de7f, type: 3}
+  customMeshChecker: {fileID: 4300002, guid: c1f2ef7ac5379194c87507f102311787, type: 3}
+  modifiers:
+  - stat: 0
+    math: 0
+    value: 1800
+  - stat: 1
+    math: 0
+    value: 1000
+  - stat: 2
+    math: 0
+    value: 1500
