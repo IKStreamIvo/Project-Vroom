@@ -7,6 +7,6 @@ School project in Unity3D (roughly 8 weeks)
 ## Artists
 - [Marcel Former](https://github.com/Selians)
 ## Designers
-- [Hugo Weichert]()
+- [Hugo Weichert](https://github.com/hweichert)
 - [Youri Mulder](https://github.com/YouriDaBomb)
-- [Joris Mensen]()
+- [Joris Mensen](https://github.com/JMensen)
